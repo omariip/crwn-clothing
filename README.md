@@ -20,11 +20,10 @@ An e-commerce website with features like Google sign-in, Stripe payments, and se
 
 ## Screenshots
 <p align="center">
-  <img src="src/assets/icon/screenshot1.jpg" width="400" />
-  <img src="src/assets/icon/screenshot2.jpg" width="400" />
-  <img src="src/assets/icon/screenshot3.jpg" width="400" />
-  <img src="src/assets/icon/screenshot4.jpg" width="400" />
-  <img src="src/assets/icon/screenshot5.jpg" width="400" />
+  <img src="public/1.jpg" width="600" />
+  <img src="public/2.jpg" width="600" />
+  <img src="public/3.jpg" width="600" />
+  <img src="public/4.jpg" width="600" />
 </p>
 
 ## Getting Started
